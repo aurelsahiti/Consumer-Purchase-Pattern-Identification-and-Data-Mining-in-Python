@@ -17,19 +17,3 @@ Data Visualization: Insights visualized using regression models and plots.
 Programming Language: Python
 
 Libraries: pandas, matplotlib, ggplot2
-
-### Files
-AprioriAlgorithm.py: Python script implementing the Apriori algorithm.
-
-BruteForceAlgorithm.py: Python script for the Brute Force approach.
-
-TransactionData.csv: Dataset containing consumer transactions.
-
-README.md: This documentation.
-
-### How to Run:
-Clone the repository and place the TransactionData.csv in the root directory.
-
-Run the AprioriAlgorithm.py and BruteForceAlgorithm.py scripts to compare the performance of both algorithms.
-
-The output will include frequent itemsets and visualized insights.
